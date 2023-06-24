@@ -120,6 +120,7 @@
   <project path="system/netd" name="xd_system_netd" remote="xdclo"/>
 
   <!-- Vendor Repo -->
+  <project path="vendor/lawnchair" name="android_vendor_lawnchair" remote="xdclo" />
   <project path="vendor/xdroid" name="xd_vendor_xdroid" remote="xdclo"/>
   <project path="vendor/xdroidui" name="xd_vendor_xdroidui" remote="xdclo"/>
   <project path="vendor/qcom/opensource/usb" name="xd_vendor_qcom_opensource_usb" remote="xdclo"/>  
