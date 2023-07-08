@@ -95,6 +95,7 @@
   <project path="packages/providers/ContactsProvider" name="xd_packages_providers_ContactsProvider" remote="xdclo"/>
   <project path="packages/providers/TelephonyProvider" name="xd_packages_providers_TelephonyProvider" remote="xdclo"/>
   <project path="packages/services/Telephony" name="xd_packages_services_Telephony" remote="xdclo"/>
+  <project path="packages/modules/DnsResolver" name="xd_packages_modules_DnsResolver" remote="xdclo"/>
 
   <!-- Prebuilts Repo -->
   <project path="prebuilts/abi-dumps/ndk" name="xd_prebuilts_abi-dumps_ndk" remote="xdclo"/>

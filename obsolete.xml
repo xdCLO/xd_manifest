@@ -75,6 +75,7 @@
   <remove-project name="platform/packages/services/Telephony"/>
   <remove-project name="platform/packages/apps/Dialer"/>
   <remove-project name="platform/packages/apps/SoundRecorder"/>
+  <remove-project name="platform/packages/modules/DnsResolver"/>
 
   <!-- Prebuilt Repo -->
   <remove-project name="platform/prebuilts/abi-dumps/ndk"/>
