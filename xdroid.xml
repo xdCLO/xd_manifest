@@ -68,6 +68,7 @@
   <project path="hardware/interfaces" name="xd_hardware_interfaces" remote="xdclo"/>
   <project path="hardware/xdroid/interfaces" name="xd_hardware_xdroid_interfaces" remote="xdclo"/>
   <project path="hardware/qcom-caf/wlan" name="xd_hardware_qcom_wlan" remote="xdclo"/>
+  <project path="hardware/qcom-caf/thermal" name="xd_hardware_qcom_thermal" remote="xdclo"/>
   <project path="hardware/libhardware" name="xd_hardware_libhardware" remote="xdclo"/>
   <project path="hardware/nxp/nfc" name="xd_hardware_nxp_nfc" remote="xdclo"/>
   <project path="hardware/ril" name="xd_hardware_ril" remote="xdclo"/>
